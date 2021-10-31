@@ -1,12 +1,5 @@
----
-description: >-
-  In Distributed Design, understanding and mapping existing systems is an
-  essential phase.
-cover: ../.gitbook/assets/git_header (2).png
-coverY: 0
----
-
-# 〰 Design Context
+# 〰 Design Context 〰 
+#### In Distributed Design, understanding and mapping existing systems is an essential phase.
 
 ## 🎯 Invitation
 
@@ -16,7 +9,7 @@ This section has three activities. A guided field trip, a self mapping exercise 
 
 This activity invites you to map, issues/drivers, other designers practice, technologies, tools and skills relevant to your context and helps you find who are the stakeholders that make up your chosen context? Miro is good tool for doing this as is Graph Commons:
 
-{% embed url="https://graphcommons.com" %}
+[Graph Commons mapping site] (https://graphcommons.com)
 
 {% embed url="https://miro.com/app/board/o9J_lmtqhLI=?invite_link_id=948226583703" %}
 
