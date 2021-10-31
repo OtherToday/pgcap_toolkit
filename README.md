@@ -1,5 +1,6 @@
+![header image](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/toolkitheader.png?raw=true)
 # 〰 The Toolkit
-An open source teaching resource for exploring Distributed Design
+#### An open source teaching resource for exploring Distributed Design
 
 The toolkit has been developed from [Other Today](https://www.other.today)’s teaching on the [Distributed Design Studio](https://wikifactory.com/+othertodaystudio) at [Brighton University](https://www.brighton.ac.uk/courses/study/product-design-with-professional-experience-bsc-hons.aspx) and has been developed with the support of the [Distributed Design Platform](https://distributeddesign.eu), co-funded by the[ Creative Europe Program](https://ec.europa.eu/culture/creative-europe) of the European Union.&#x20;
 
@@ -17,7 +18,7 @@ The toolkit is split into three thematic sections, **Direction**, **Design** and
 
 This toolkit builds on the double diamond model of a designer’s workflow and on top of topics in the established **Design** phase it introduces activities to encourage designers to think about their **Direction** before a project (their values, vision and mission) and alternatives for the **Distribution** of the materials, value and knowledge of their design after a product is launched.
 
-### Direction
+## Direction
 
 Direction is the 'Why' of a project. It is an understanding that design is about more than just products. It needs to consider the system that it is operating within and connect this to the designer's vision and values they want to manifest. The toolkit includes activities in
 
@@ -25,7 +26,7 @@ Direction is the 'Why' of a project. It is an understanding that design is about
 * Setting out a hopeful vision of the future into which designers can imagine their near and far future to set their mission.&#x20;
 * A willingness to get lost - it is a designers job to learn how to find out about themselves, the local situation and the wider global context in order to Identify a specialism or approach that is individual to the designer.&#x20;
 
-### Design
+## Design
 
 Design is the "How" of a project and in distributed design this phase should follow the established methods as set out in frameworks such as the double diamond. This toolkit includes activities that distributed designers could do to improve their design and research such as:
 
@@ -33,7 +34,7 @@ Design is the "How" of a project and in distributed design this phase should fol
 * Mapping contexts and local manufacturing.&#x20;
 * Ideation via materials and manufacturing methods&#x20;
 
-### Distribution
+## Distribution
 
 ‘Distribution’ in Distributed Design refers to several things
 
@@ -43,4 +44,4 @@ Design is the "How" of a project and in distributed design this phase should fol
 
 
 
-![](.gitbook/assets/gitfooter.png)
+![footer](.gitbook/assets/gitfooter.png)
