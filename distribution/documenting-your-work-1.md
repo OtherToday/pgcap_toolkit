@@ -19,7 +19,8 @@ In pandemic conditions, this work is both more urgent, and more challenging. Wit
 
 ## 📷 Inspiration
 ####  Who is Andrew Sleigh?
-![](../.gitbook/assets/DSC03179-sm2.jpeg)
+![](https://raw.githubusercontent.com/OtherToday/pgcap_toolkit/main/.gitbook/assets/DSC03179-sm.jpeg)
+
 Andrew Sleigh is a designer and maker working in Brighton, UK. He is passionate about sharing your work; without sharing, your project just exists on a desk in your studio.
 
 He advocates building the documentation process into the design process as a form of reflective design process.&#x20;
