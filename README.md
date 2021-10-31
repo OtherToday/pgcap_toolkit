@@ -1,4 +1,4 @@
-![header image](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/toolkitheader.png?raw=true)
+![](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/toolkitheader.png?raw=true)
 # 〰 The Toolkit
 #### An open source teaching resource for exploring Distributed Design
 
@@ -44,4 +44,4 @@ Design is the "How" of a project and in distributed design this phase should fol
 
 
 
-![footer](.gitbook/assets/gitfooter.png)
+![](.gitbook/assets/gitfooter.png)
