@@ -64,7 +64,8 @@ These three videos are designed to provide an introduction to product photograph
 
 There are also some ideas on how to take your lighting to the next level. Once you've mastered the basics, you'll be in a much better position to know where to invest money, or what you need to focus on to improve.&#x20;
 
-[![Product Photography Part 1](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/andrew_yt_part1.png)](https://www.youtube.com/watch?t=51s&v=narXsEuGsA4)
+[![Product Photography Part 1](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/andrew_yt_part1.png?raw=true)](https://www.youtube.com/watch?t=51s&v=narXsEuGsA4)
+{% embed url="https://www.youtube.com/watch?t=51s&v=narXsEuGsA4" %}
 
 {% embed url="https://www.youtube.com/watch?v=zXTHeclGEaM" %}
 
