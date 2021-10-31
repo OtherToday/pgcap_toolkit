@@ -6,7 +6,7 @@
 * [〰 Distributed Design?](introduction/what-is-distributed-design.md)
 * [🏭    Supply Chains](introduction/batch.works.md)
 
-## 🎯 Direction
+## 🎯 DIRECTION
 
 * [〰 Orientation](direction/orientation.md)
 * [〰 Vision Setting](direction/orientation-and-beginning-the-journey.md)
@@ -23,7 +23,7 @@
 * [〰 Brief: One Sheet](design/one-sheet-2.md)
 * [〰 Technology](design/technology.md)
 
-## 📦 Distribution
+## 📦 DISTRIBUTION
 
 * [〰 Business models](distribution/exercise-business.md)
 * [📷 Document + Share](distribution/documenting-your-work-1.md)
