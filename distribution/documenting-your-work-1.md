@@ -1,13 +1,6 @@
----
-description: >-
-  Documentation tells the story of why your product is interesting and gives
-  others something to share further. In this section, designer and maker Andrew
-  Sleigh joins us to share his knowledge.
-cover: ../.gitbook/assets/git_header (2).png
-coverY: 0
----
 
 # 📷 Document + Share
+####   Documentation tells the story of why your product is interesting and gives others something to share further. In this section, designer and maker Andrew Sleigh joins us to share his knowledge.
 
 ## Contents
 
@@ -18,61 +11,50 @@ coverY: 0
 5. [Andrew's Plotter Project](documenting-your-work-1.md#andrews-plotter-project)
 6. [Making and Prototyping resources for Designers](documenting-your-work-1.md#making-and-prototyping-resources-for-designers)
 
-## ****:dart: **Invitation**
+## :dart: **Invitation**
 
 In Distributed Design, your documentation may be the first thing someone sees when they encounter your project. If you want your work to be replicated, improved and adapted to new contexts, you need to consider how to invite people in; how to tell the story of your design; and what technical information you need to provide to  help them distribute it.
 
-In pandemic conditions, this work is both more urgent, and more challenging. With Andrew, we look at some ways to get started.&#x20;
+In pandemic conditions, this work is both more urgent, and more challenging. With Andrew, we look at some ways to get started.
 
-Start by looking at the three tabs below.
-
-{% tabs %}
-{% tab title="Inspiration" %}
-## **📷 💻 Who is Andrew Sleigh?**
-
-****
-
+## 📷 Inspiration
+####  Who is Andrew Sleigh?
 ![](../.gitbook/assets/DSC03179-sm2.jpeg)
-
 Andrew Sleigh is a designer and maker working in Brighton, UK. He is passionate about sharing your work; without sharing, your project just exists on a desk in your studio.
 
 He advocates building the documentation process into the design process as a form of reflective design process.&#x20;
 
 **His top tip:** write notes, and take photos and videos as you work so you have all the assets you need when you want to share it.
 
-{% embed url="https://andrewsleigh.com" %}
-Andrew's personal website
-{% endembed %}
-{% endtab %}
+[Andrew's personal website](https://andrewsleigh.com)
 
-{% tab title="Purpose" %}
+## Purpose
 Documentation tells the story of why your product is interesting and gives others something to share further.
 
 In traditional product or industrial design, the documentation is often left to others, for instance, the manufacturer.  In Distributed Design, it is important that these assets are owned by the designer.&#x20;
 
-We want consumers/ citizens to choose Distributed Designs over mass-produced products. Great photography and clear and easy-to-follow instructions enhance this desirability.&#x20;
+We want consumers/ citizens to choose Distributed Designs over mass-produced products. Great photography and clear and easy-to-follow instructions enhance this desirability.
 
-The purpose of this section of the toolkit is&#x20;
+The purpose of this section of the toolkit is
 
 * To understand why documentation is so important in Distributed Design
 * To learn some tools and tips for creating great documentation
 * To apply them to a project of your own
-{% endtab %}
 
-{% tab title="To Do" %}
+
+## To Do
 1. Read this section top to bottom first
 2. Watch the three videos
 3. Create your own documentation!
-{% endtab %}
-{% endtabs %}
 
-## &#x20;✏Activity: Product Photography
+
+## ✏Activity: Product Photography
 
 ### - Part 1
 
-In groups research the key words in this Miro board. Be prepared to teach your peers about the terms.&#x20;
+In groups research the key words in this Miro board. Be prepared to teach your peers about the terms.
 
-{% embed url="https://miro.com/app/board/o9J_lmtI5rg=?invite_link_id=894671888078" %}
+[![IMAGE ALT TEXT HERE](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/Screenshot%202021-10-31%207.04.00%20PM.png?raw=true)](https://miro.com/app/board/o9J_lmtI5rg=?invite_link_id=894671888078)
 
 ### - Part 2
 
@@ -80,7 +62,7 @@ These three videos are designed to provide an introduction to product photograph
 
 There are also some ideas on how to take your lighting to the next level. Once you've mastered the basics, you'll be in a much better position to know where to invest money, or what you need to focus on to improve.&#x20;
 
-{% embed url="https://www.youtube.com/watch?t=51s&v=narXsEuGsA4" %}
+[![Product Photography Part 1](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/andrew_yt_part1.png)](https://www.youtube.com/watch?t=51s&v=narXsEuGsA4)
 
 {% embed url="https://www.youtube.com/watch?v=zXTHeclGEaM" %}
 
@@ -136,8 +118,12 @@ This pen plotter was designed to be a replicable project, distributed through DI
 
 
 
-![](<../.gitbook/assets/image (41).png>)
 
+![](<../.gitbook/assets/image (41).png>)
+                                                    
+                                                                                                                          
+                                                                                                                          
+                                                                                                                          
 
 
 
