@@ -1,5 +1,3 @@
-![](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/toolkitheader.png?raw=true)
-# 〰 The Toolkit
 #### An open source teaching resource for exploring Distributed Design
 
 The toolkit has been developed from [Other Today](https://www.other.today)’s teaching on the [Distributed Design Studio](https://wikifactory.com/+othertodaystudio) at [Brighton University](https://www.brighton.ac.uk/courses/study/product-design-with-professional-experience-bsc-hons.aspx) and has been developed with the support of the [Distributed Design Platform](https://distributeddesign.eu), co-funded by the[ Creative Europe Program](https://ec.europa.eu/culture/creative-europe) of the European Union.&#x20;
