@@ -4,7 +4,7 @@
 
 * [〰 The Toolkit](README.md)
 * [〰 Distributed Design?](introduction/what-is-distributed-design.md)
-* [🏭    Supply Chains](introduction/batch.works.md)
+* [🏭    Supply Chains](introduction/batchworks.md)
 
 ## 🎯 DIRECTION
 
