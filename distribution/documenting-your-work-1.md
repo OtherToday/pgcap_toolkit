@@ -54,7 +54,7 @@ The purpose of this section of the toolkit is
 
 In groups research the key words in this Miro board. Be prepared to teach your peers about the terms.
 
-[![IMAGE ALT TEXT HERE](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/Screenshot%202021-10-31%207.04.00%20PM.png?raw=true)](https://miro.com/app/board/o9J_lmtI5rg=?invite_link_id=894671888078)
+[![Miro Board](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/Screenshot%202021-10-31%207.04.00%20PM.png?raw=true)](https://miro.com/app/board/o9J_lmtI5rg=?invite_link_id=894671888078)[![Miro Board](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/Screenshot%202021-10-31%207.04.00%20PM.png?raw=true)](https://miro.com/app/board/o9J_lmtI5rg=?invite_link_id=894671888078)[![Miro Board](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/Screenshot%202021-10-31%207.04.00%20PM.png?raw=true)](https://miro.com/app/board/o9J_lmtI5rg=?invite_link_id=894671888078)[![Miro Board](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/Screenshot%202021-10-31%207.04.00%20PM.png?raw=true)](https://miro.com/app/board/o9J_lmtI5rg=?invite_link_id=894671888078)
 
 {% embed url="https://miro.com/app/board/o9J_lmtI5rg=?invite_link_id=894671888078" %}
 
