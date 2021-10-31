@@ -56,6 +56,8 @@ In groups research the key words in this Miro board. Be prepared to teach your p
 
 [![IMAGE ALT TEXT HERE](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/Screenshot%202021-10-31%207.04.00%20PM.png?raw=true)](https://miro.com/app/board/o9J_lmtI5rg=?invite_link_id=894671888078)
 
+{% embed url="https://miro.com/app/board/o9J_lmtI5rg=?invite_link_id=894671888078" %}
+
 ### - Part 2
 
 These three videos are designed to provide an introduction to product photography for absolute beginners. By experimenting with household items, we find ways of staging and lighting products to get pretty good results without spending any money.
