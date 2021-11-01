@@ -69,7 +69,8 @@ There are also some ideas on how to take your lighting to the next level. Once y
 ![](https://i.imgur.com/PhNzjMx.png)
 [Product Photography Part 2](https://www.youtube.com/watch?v=zXTHeclGEaM)
 
-![Product Photography Part 3](https://i.imgur.com/LVkPEU5.png)
+![](https://i.imgur.com/LVkPEU5.png)
+[Product Photography Part 3](https://www.youtube.com/watch?v=8si9M_9NWOg&t=1s&ab_channel=AndrewSleigh)
 
 ## 🕸 Platforms for sharing your work.
 
@@ -117,6 +118,8 @@ We want them to make artefacts to test assumptions, validate with users, and com
 
 Here is a list of useful resources, approaches, case studies, tools, methodologies, tutorials, software, etc. e.g.
 
+
+
 * Free (to students) software for design, prototyping, simulation and visualisation
 * Prototyping methodologies and links to tutorials, videos, online learning where these things are demonstrated - e.g. paper prototyping UIs
 * Creative use of media to share or test ideas
@@ -127,7 +130,7 @@ Headings of topics to cover, or links to specific resources are all useful.
 
 
 
-## 1. Software
+1. Software
 
 
 ### 2D CAD
@@ -150,8 +153,14 @@ Free for students’ own computers up to May 31st
 
 [https://www.gimp.org/](https://www.gimp.org/)
 
+ 
+
+ 
+
 
 ### Ipad drawing sketching
+
+ 
 
 **Procreate **- painting and creating visuals
 
@@ -228,6 +237,7 @@ Tinkercad - Kid’s site but useful for basic electronics
 
 ## 2. Prototyping
 
+
 ### Lo-fi 3D Prototyping and model making
 
 Design modelling with card and hot glue
@@ -239,6 +249,8 @@ Product Tank –** Very good** YouTube videos that deal with Prototyping and Mod
 [https://www.youtube.com/watch?v=gWk6br5Ngkc](https://www.youtube.com/watch?v=gWk6br5Ngkc)
 
 [https://www.youtube.com/watch?v=Oee8VfjR1CE](https://www.youtube.com/watch?v=Oee8VfjR1CE)
+
+ 
 
 Lottie Smith: [https://www.lottiesmith.com/discovery-museum-fabricating-histor](https://www.lottiesmith.com/discovery-museum-fabricating-histor)
 
