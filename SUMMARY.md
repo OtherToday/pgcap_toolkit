@@ -28,3 +28,7 @@
 * [〰 Business models](distribution/exercise-business.md)
 * [📷 Document + Share](distribution/documenting-your-work-1.md)
 * [〰 Project: Plastic Kitchen](distribution/plastickitchen.md)
+
+## ✔ TASKS
+
+* [〰 Task 7](tasks/task_7.md)
