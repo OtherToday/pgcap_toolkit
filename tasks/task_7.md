@@ -13,6 +13,9 @@ We then learned the basics of product design photography. (some videos for those
 |  Thursday 4th | AM online lecture | PM Online tutorials | 
 |  Monday 8th  | AM lecture  | PM Making time!  | 
 |  Thursday 11th | Deadline   |  All day - pin up work on desks | 
+
+
+
 # To Do
 You need to be really making, get into workshops and get *iterating* don't aim for a finished idea, just make the first idea and move on quickly. We are into the 3rd week of this brief we should have lots to see now. You should be aiming to finish this whole brief including draft documentation by 11th nov. All details are in the template. This is research, so remember you are building a supply chain and will be sharing instructions. This means whatever you do needs to be repeatable. 
 
