@@ -1,3 +1,4 @@
+
 ![](https://raw.githubusercontent.com/OtherToday/pgcap_toolkit/main/.gitbook/assets/DistributedDesign_Black.emf.png)
 # Task 7
 Round up of 1.11.21's activities and planning for the next 2 weeks. 
@@ -29,3 +30,4 @@ On Thursday 11th you need to show on your desk:
 
 * [photography videos from today](https://www.youtube.com/channel/UC-PxRQ3hhs8KqDeZmMxVq6A)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/narXsEuGsA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
