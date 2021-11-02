@@ -12,7 +12,8 @@ We then learned the basics of product design photography. (some videos for those
 |---|---|---|
 |  Thursday 4th | AM online lecture | PM Online tutorials | 
 |  Monday 8th  | AM lecture  | PM Making time!  | 
-|  Thursday 11th | Deadline   |  All day - pin up work on desks | 
+|  Thursday 11th | Deadline   |  All day - pin up work on desks 
+---
 
 
 
