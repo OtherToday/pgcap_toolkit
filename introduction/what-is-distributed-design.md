@@ -1,9 +1,3 @@
----
-description: An introduction to the concept of Distributed Design
-cover: ../.gitbook/assets/git_header (2).png
-coverY: 0
----
-
 # 〰 Distributed Design?
 
 ![Centralized, decentralized and distributed network models by Paul Baran (1964)](<../.gitbook/assets/Screenshot 2021-10-26 12.35.09 PM.png>)
