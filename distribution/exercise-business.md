@@ -1,13 +1,5 @@
----
-description: >-
-  An exercise in understanding the power that business has to affect People,
-  Planet and Profit.
-cover: ../.gitbook/assets/git_header (2).png
-coverY: 0
----
-
 # 〰 Business models
-
+### An exercise in understanding the power that business has to affect People, Planet and Profit.
 ## :dart: **Invitation**
 
 Businesses have a huge impact on our world. By doing this exercise you can begin to understand the many ways that this can happen. Your projects will be richer and more dimensional with an understanding of the impact that a venture can achieve.
