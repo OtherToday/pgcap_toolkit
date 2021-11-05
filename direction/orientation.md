@@ -1,4 +1,5 @@
 # 〰 Orientation
+### This activity is a great opportunity to get to know yourself and those around you
 
 ## ​🎯**Invitation**
 
