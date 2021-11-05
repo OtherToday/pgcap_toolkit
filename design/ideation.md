@@ -28,5 +28,3 @@ Bisociation Tool is a problem-solving tool to gain new and innovative solutions 
 Use this Miro to generate potential areas for exploration.
 
 {% embed url="https://miro.com/app/board/o9J_lmtOzQM=?invite_link_id=191634759803" %}
-
-![](../.gitbook/assets/gitfooter.png)
