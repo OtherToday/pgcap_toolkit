@@ -1,7 +1,3 @@
----
-description: An introduction to the complexity of sustainability
----
-
 # 〰 Sustainability
 
 ## ​🎯 **Invitation**
