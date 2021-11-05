@@ -1,9 +1,3 @@
----
-description: An introduction to generating ideas
-cover: ../.gitbook/assets/git_header (2).png
-coverY: 0
----
-
 # 〰 Ideation
 
 ## 🎯 Invitation
