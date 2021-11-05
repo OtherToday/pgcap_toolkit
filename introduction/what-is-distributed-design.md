@@ -1,4 +1,6 @@
 # 〰 Distributed Design?
+### An open source teaching resource for exploring Distributed Design
+
 
 ![Centralized, decentralized and distributed network models by Paul Baran (1964)](<../.gitbook/assets/Screenshot 2021-10-26 12.35.09 PM.png>)
 
