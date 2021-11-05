@@ -1,4 +1,4 @@
-# 📢 Manifesto + Identity
+# 🔊 Manifesto + Identity
 ### Snootie Studio takes us through the importance of graphic identity for Distributed Design projects. Through a series of activities, you will explore colour and type and apply them to your own manifest
 
 ## Contents
@@ -13,7 +13,7 @@
 8. [Making Your Manifesto](your-graphic-identity.md#making-your-manifesto)
 9. [Snootie's Resources](your-graphic-identity.md#snooties-resources)
 
-## ****:dart: **Invitation**
+## :dart: Invitation
 
 Take inspiration from the work of Snootie studio to develop your own graphic identity.&#x20;
 
