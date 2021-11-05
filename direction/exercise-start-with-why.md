@@ -1,4 +1,5 @@
 # 〰 Finding Purpose
+### Your purpose is the cause or belief that drives us all. Knowing this helps designers choose the right projects to work on.
 
 ## ​🎯**Invitation**
 
