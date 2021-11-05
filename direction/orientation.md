@@ -1,11 +1,3 @@
----
-description: >-
-  This activity is a great opportunity to get to know yourself and those around
-  you
-cover: ../.gitbook/assets/git_header (2).png
-coverY: 0
----
-
 # 〰 Orientation
 
 ## ​🎯**Invitation**
@@ -84,5 +76,3 @@ Answer the questions in the circles and embellish with pictures and stories. Spr
 &#x20;Copy this Miro board into your own to fill it in
 
 {% embed url="https://miro.com/app/board/o9J_lnqZaII=?invite_link_id=544866363985" %}
-
-![](../.gitbook/assets/gitfooter.png)
