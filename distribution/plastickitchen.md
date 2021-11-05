@@ -1,11 +1,5 @@
----
-description: >-
-  A simple method for making things with recycled plastic using only items from
-  the supermarket. This guide includes how to make a sheet and how to make a
-  basic hook.
----
-
 # 〰 Project: Plastic Kitchen
+### A simple method for making things with recycled plastic using only items from the supermarket. This guide includes how to make a sheet and how to make a basic hook.
 
 ![image](https://wikifactory.com/files/RmlsZTo0NzIxMjk=)
 
