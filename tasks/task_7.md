@@ -1,6 +1,3 @@
-
-![](https://raw.githubusercontent.com/OtherToday/pgcap_toolkit/main/.gitbook/assets/DistributedDesign_Black.emf.png)
-# Task 7
 Round up of 1.11.21's activities and planning for the next 2 weeks. 
 # Sequence
 Week 5 to week 6 01.11.21 - 11.11.21
