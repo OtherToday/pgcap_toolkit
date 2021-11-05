@@ -1,4 +1,5 @@
 # 〰 Ideation
+### An introduction to generating ideas
 
 ## 🎯 Invitation
 
