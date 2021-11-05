@@ -1,12 +1,3 @@
----
-description: >-
-  Rather than seeing projects as a ‘problem and solution’, you should start with
-  a hopeful vision of what you want to achieve, and develop a clear mission from
-  that.
-cover: ../.gitbook/assets/git_header (2).png
-coverY: 0
----
-
 # 〰 Vision Setting
 
 ## 🗒 Contents
@@ -61,7 +52,6 @@ This is a script to lead a group through a guided visualisation to the future we
 
 {% embed url="https://www.internationalfuturesforum.com/p/three-horizons-the-patterning-of-hope" %}
 
-![](../.gitbook/assets/gitfooter.png)
 
 
 
