@@ -1,11 +1,3 @@
----
-description: >-
-  Material researcher and designer Zoe Powell takes us through the importance of
-  recording your material experimentation in Distributed Design
-cover: ../.gitbook/assets/git_header (2).png
-coverY: 0
----
-
 # 🔬 Experiment + Record
 
 ## Contents
