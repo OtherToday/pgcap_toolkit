@@ -1,4 +1,5 @@
 # 〰 Vision Setting
+### Rather than seeing projects as a ‘problem and solution’, you should start with a hopeful vision of what you want to achieve, and develop a clear mission from that.
 
 ## 🗒 Contents
 
