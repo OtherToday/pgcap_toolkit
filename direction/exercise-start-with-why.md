@@ -1,11 +1,3 @@
----
-description: >-
-  Your purpose is the cause or belief that drives us all. Knowing this helps
-  designers choose the right projects to work on.
-cover: ../.gitbook/assets/git_header (2).png
-coverY: 0
----
-
 # 〰 Finding Purpose
 
 ## ​🎯**Invitation**
@@ -140,5 +132,3 @@ Here’s how Simon Sinek expresses his WHY:
 
 
 {% embed url="https://miro.com/app/board/o9J_lUpp1Vo=?invite_link_id=227373490260" %}
-
-![](../.gitbook/assets/gitfooter.png)
