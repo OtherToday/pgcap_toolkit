@@ -1,4 +1,5 @@
 # 〰 Divergent research
+### Divergent thinking and research
 
 ## 🎯 Invitation
 
