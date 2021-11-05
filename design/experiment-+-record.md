@@ -1,4 +1,5 @@
-# 🔬 Experiment + Record
+# 🧪 Experiment + Record
+### Material researcher and designer Zoe Powell takes us through the importance of recording your material experimentation in Distributed Design
 
 ## Contents
 
