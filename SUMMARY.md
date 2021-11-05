@@ -32,3 +32,4 @@
 ## ✔ TASKS
 
 * [〰 Task 7](tasks/task_7.md)
+* [〰 Task 8](tasks/task_8.md)
