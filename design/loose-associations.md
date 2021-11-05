@@ -1,9 +1,3 @@
----
-description: Divergent thinking and research
-cover: ../.gitbook/assets/git_header (2).png
-coverY: 0
----
-
 # 〰 Divergent research
 
 ## 🎯 Invitation
