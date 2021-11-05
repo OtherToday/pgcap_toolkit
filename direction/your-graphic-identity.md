@@ -1,13 +1,5 @@
----
-description: >-
-  Snootie Studio takes us through the importance of graphic identity for
-  Distributed Design projects. Through a series of activities, you will explore
-  colour and type and apply them to your own manifest
-cover: ../.gitbook/assets/git_header (3).png
-coverY: 0
----
-
 # 📢 Manifesto + Identity
+### Snootie Studio takes us through the importance of graphic identity for Distributed Design projects. Through a series of activities, you will explore colour and type and apply them to your own manifest
 
 ## Contents
 
