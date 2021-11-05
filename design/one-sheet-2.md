@@ -1,11 +1,3 @@
----
-description: >-
-  Using one sheet of material, design a product to be as simple, cost-effective
-  and waste efficient as possible.
-cover: ../.gitbook/assets/git_header (2).png
-coverY: 0
----
-
 # 〰 Brief: One Sheet
 
 ## &#x20;**🎯 Invitation**
