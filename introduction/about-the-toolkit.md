@@ -10,7 +10,7 @@ This toolkit is intended to grow and distributed design educators are invited to
 
 The toolkit is split into three thematic sections, **Direction**, **Design** and **Distribution**. The content can be approached in any order, for example you may want to start by learning about supply chains (a part of distribution) while at the same time developing values (in direction)
 
-![Expanded double diamond adapted from the UK Design Council's Systemic Design Framework](<.gitbook/assets/Planning presentation (1).jpg>)
+![Expanded double diamond adapted from the UK Design Council's Systemic Design Framework](https://raw.githubusercontent.com/OtherToday/pgcap_toolkit/main/.gitbook/assets/Planning%20presentation%20(1).jpg)
 
 
 
@@ -39,7 +39,3 @@ Design is the "How" of a project and in distributed design this phase should fol
 * firstly exploring alternative ways of getting products to people such as sending data, using local materials and making them with digital fabrication instead of shipping materials and goods globally from factory to consumer.
 * Secondly the distribution of value, knowledge and power as Kate Raworth argues; a new economy is required that is regenerative and re-distributive by design. This toolkit looks at alternative business models and the open sourcing of instructions and sharing of learning through publishing lab books, and methods online.
 * Thirdly the distribution of material in circular flows considering a material’s life cycle. This toolkit encourages design for the next use and the use of pre-used materials in new products.
-
-
-
-![](.gitbook/assets/gitfooter.png)
