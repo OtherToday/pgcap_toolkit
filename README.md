@@ -19,7 +19,7 @@ This research explores whether instead we should be using the communication, pub
 
 # Context
 
-In *Rethinking Pedagogy for a Digital Age* (Beetham, 2013)[^3] Betham argues that **resources and tasks** should align so that students can build the confidence to be creative with digital technologies. It is important therefore that the digital technologies align with their digital resources:
+In *Rethinking Pedagogy for a Digital Age* (Beetham, 2013)[^3] Beetham argues that **resources and tasks** should align so that students can build the confidence to be creative with digital technologies. It is important therefore that the digital technologies align with their digital resources:
 
 > In facing uncertainties of the near and more distant future, we can be sure that learners are better off- more resilient- if they have a broad repertoire of capabilities at their fingertips, those closely aligned with academic expertise and **professional practice** and those they evolved from their **digital experiences**, along with hybrids of the two. Learners will be well served by tasks, programmes and environments that **generate uncertainty**, and foster a repertoire of resourceful responses.  (Beetham, 2013, p.279)
 
