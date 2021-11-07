@@ -3,9 +3,9 @@
 ## 🧰 INTRODUCTION
 
 * [〰 PGCAP](README.md)
-* [〰 The Toolkit](/introduction/about-the-toolkit.md)
+* [〰 The Toolkit](introduction/about-the-toolkit.md)
 * [〰 Distributed Design?](introduction/what-is-distributed-design.md)
-* [🏭    Supply Chains](introduction/batchworks.md)
+* [🏭 Supply Chains](introduction/batchworks.md)
 
 ## 🎯 DIRECTION
 
@@ -32,5 +32,6 @@
 
 ## ✔ TASKS
 
-* [〰 Task 7](tasks/task_7.md)
-* [〰 Task 8](tasks/task_8.md)
+* [〰 Task 7](tasks/task\_7.md)
+* [〰 Task 8](tasks/task\_8.md)
+* [〰 Testing from GB](tasks/testing-from-gb.md)
