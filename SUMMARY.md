@@ -2,7 +2,8 @@
 
 ## 🧰 INTRODUCTION
 
-* [〰 The Toolkit](README.md)
+* [〰 PGCAP](README.md)
+* [〰 The Toolkit](/introduction/about-the-toolkit.md)
 * [〰 Distributed Design?](introduction/what-is-distributed-design.md)
 * [🏭    Supply Chains](introduction/batchworks.md)
 
