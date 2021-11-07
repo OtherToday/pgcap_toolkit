@@ -13,9 +13,13 @@ While the pandemic threw up many challenges and issues for teaching a practice b
 
 The approach has the potential to distribute power, knowledge and wealth as passive consumers shift to become critically conscious creators and citizens. The book *Viral Design: The COVID-19 Crisis as a Global Test Bed for Distributed Design* (2020)[^1] hailed 2020 as the year that the discipline of Distributed Design shifted from science fiction to much needed reality - as supply chains broke down, makers and maker spaces shared files and 3D printed and laser cut PPE on demand and local to need. 
 
+![Viral Design book open on a page about PPE](https://distributeddesign.eu/wp-content/uploads/2020/11/ViralDesign_28-1536x1025.jpg)
+
 While Brighton University's technological response to lock down was swift and consistent, our studio was already using industry standard tools from product design: Slack for messaging, Zoom for calls, Wikifactory for hosting and sharing portfolios and Miro for collaboration.  A challenge faced by our studio during the beginning of the pandemic was to adapt our teaching to mandated software and platforms unfamiliar to those working in the design world. 
 
 This research explores whether instead we should be using the communication, publishing and collaboration tools used professionally in design to constructively align (Biggs and Tang 2011)[^2] student's digital learning with the digital skills they need for industry.
+
+![Wikifactory projects on the Distributed Design Studio page](https://i.imgur.com/19IcXIH.png)
 
 # Context
 
