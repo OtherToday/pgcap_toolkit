@@ -15,15 +15,15 @@ The approach has the potential to distribute power, knowledge and wealth as pass
 
 While Brighton University's technological response to lock down was swift and consistent, our studio was already using industry standard tools from product design: Slack for messaging, Zoom for calls, Wikifactory for hosting and sharing portfolios and Miro for collaboration.  A challenge faced by our studio during the beginning of the pandemic was to adapt our teaching to mandated software and platforms unfamiliar to those working in the design world. 
 
-This research explores whether instead we should be using the communication, publishing and collaboration tools used professionally in design to constructively align (Biggs and Tang 2011) student's digital learning with the digital skills they need for industry.
+This research explores whether instead we should be using the communication, publishing and collaboration tools used professionally in design to constructively align (Biggs and Tang 2011)[^2] student's digital learning with the digital skills they need for industry.
 
 # Context
 
-In *Rethinking Pedagogy for a Digital Age* (Beetham and Sharpe, 2013) Betham argues that **resources and tasks** should align so that students can build the confidence to be creative with digital technologies. It is important therefore that the digital technologies align with their digital resources:
+In *Rethinking Pedagogy for a Digital Age* (Beetham, 2013)[^3] Betham argues that **resources and tasks** should align so that students can build the confidence to be creative with digital technologies. It is important therefore that the digital technologies align with their digital resources:
 
 > In facing uncertainties of the near and more distant future, we can be sure that learners are better off- more resilient- if they have a broad repertoire of capabilities at their fingertips, those closely aligned with academic expertise and **professional practice** and those they evolved from their **digital experiences**, along with hybrids of the two. Learners will be well served by tasks, programmes and environments that **generate uncertainty**, and foster a repertoire of resourceful responses.  (Beetham, 2013, p.279)
 
-Product designers often work in distributed teams and are used to certain creative and collaborative functionality that corporate and educational tools such and Microsoft and Blackboard struggle with. As Gilly Salmon (2013) highlights learning a new software requires intense e-moderation, technical support and multiple stages of student engagement from socialising to learning by doing. 
+Product designers often work in distributed teams and are used to certain creative and collaborative functionality that corporate and educational tools such and Microsoft and Blackboard struggle with. As Gilly Salmon (2013)[^4] highlights learning a new software requires intense e-moderation, technical support and multiple stages of student engagement from socialising to learning by doing. 
 
 There is an argument here therefore that the resources given to students should reflect the assessment formats they are being given. Recommended software and formats from Brighton University include Microsoft word .DOCS,  My Studies HTML and Microsoft .PPT slides - all three are formats little used in design education or practice.  
 
@@ -135,8 +135,12 @@ There is a desire from my course to use more appropriate technologies to the des
 
 
 
-[^1]: Viral Design: The COVID-19 Crisis as a Global Test Bed for Distributed Design Paperback – October 2, 2020
-by Kate Armstrong (Editor), Julia Gay (Editor), Paula Sánchez Toribio (Editor), Emily Whyman (Editor)
+[^1]: Kate Armstrong (Editor), Julia Gay (Editor), Paula Sánchez Toribio (Editor), Emily Whyman (Editor), 2020, Viral Design: The COVID-19 Crisis as a Global Test Bed for Distributed Design, IAAC, Barcelona
 
-E-tivities: The Key to Active Online Learning Paperback – Illustrated, 19 July 2013
-by Gilly Salmon  (Author)
+
+[^2]:John Biggs (Author), Catherine Tang  (Author), 2011, Teaching For Quality Learning At University: What the Student Does (UK Higher Education OUP Humanities & Social Sciences Higher Education OUP)
+
+
+[^3]: Beetham, H, Sharpe, R 2013, Rethinking Pedagogy for a Digital Age, London 2013
+
+[^4]: Gilly Salmon, 2013, E-tivities: The Key to Active Online Learning Paperback 
