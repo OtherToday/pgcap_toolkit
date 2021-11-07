@@ -126,7 +126,7 @@ I have developed what the Learning Technologist called a "continuous development
 2. Then I upload the markdown file to GITHUB
 3. Which is then syncronised to view on GITBOOK 
 4. This can then be embed in TEAMS and MYSTUDIES in multiple ways
-   1. [As a html file exported from typora](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/PGAPtext.html)
+   1. As a html file exported from typora
    2. [As a pdf of the book or page  downloaded from gitbook](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/spaces_M504wzxeLKMO6stkHwi2_pdf_0faca6a451f4709702cc29f7b277ca109eb525fc30aa7ef5b5ebec23d858f66a_export.pdf)
    3. [As a pdf of the book or page  exported from typora](https://github.com/OtherToday/pgcap_toolkit/blob/main/.gitbook/assets/PGAPtext.pdf)
    4. As an iframe or link to the whole gitbook or a specific page
