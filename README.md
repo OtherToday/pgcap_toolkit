@@ -1,3 +1,4 @@
+# Independent Project
 ### How might we design constructively aligned online resources for the Distributed Design studio on Product Design with Professional Experience BSc?
 
 # Introduction
