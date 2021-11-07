@@ -3,7 +3,7 @@
 
 # Introduction
 
-This digital resource is the result and site of pedagogic research into the challenges and opportunities in teaching product design remotely. Its aim is to be a hybrid reference point for students rather than the main point of delivery
+This digital resource is the result of pedagogic research into the challenges and opportunities in teaching product design remotely.
 
 While the pandemic threw up many challenges and issues for teaching a practice based course like Product Design, the studio that I teach - Distributed Design - was well prepared for the disruption.  
 
@@ -11,7 +11,7 @@ While the pandemic threw up many challenges and issues for teaching a practice b
 
 > "It is easier to ship recipes than cakes and biscuits" attributed to John Maynard Keynes
 
-In turn the approach has the potential to distribute power, knowledge and wealth as passive consumers shift to become critically conscious creators and citizens. The book *Viral Design: The COVID-19 Crisis as a Global Test Bed for Distributed Design* (2020) hailed 2020 as the year that the discipline of Distributed Design shifted from science fiction to much needed reality - as supply chains broke down, makers and maker spaces shared files and 3D printed and laser cut PPE on demand and local to need. 
+The approach has the potential to distribute power, knowledge and wealth as passive consumers shift to become critically conscious creators and citizens. The book *Viral Design: The COVID-19 Crisis as a Global Test Bed for Distributed Design* (2020)[^1] hailed 2020 as the year that the discipline of Distributed Design shifted from science fiction to much needed reality - as supply chains broke down, makers and maker spaces shared files and 3D printed and laser cut PPE on demand and local to need. 
 
 While Brighton University's technological response to lock down was swift and consistent, our studio was already using industry standard tools from product design: Slack for messaging, Zoom for calls, Wikifactory for hosting and sharing portfolios and Miro for collaboration.  A challenge faced by our studio during the beginning of the pandemic was to adapt our teaching to mandated software and platforms unfamiliar to those working in the design world. 
 
@@ -135,7 +135,7 @@ There is a desire from my course to use more appropriate technologies to the des
 
 
 
-Viral Design: The COVID-19 Crisis as a Global Test Bed for Distributed Design Paperback – October 2, 2020
+[^1] Viral Design: The COVID-19 Crisis as a Global Test Bed for Distributed Design Paperback – October 2, 2020
 by Kate Armstrong (Editor), Julia Gay (Editor), Paula Sánchez Toribio (Editor), Emily Whyman (Editor)
 
 E-tivities: The Key to Active Online Learning Paperback – Illustrated, 19 July 2013
