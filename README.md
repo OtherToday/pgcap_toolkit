@@ -77,7 +77,7 @@ The module I teach is the "studio" module, this is a double semester spanning mo
 
 > "Miro was useful as it gave a paper trail. There is a difference between online materials given before or after a class. Engagement in practice in person is better (from a students perspective) **but having a resource is useful to refer back to.** Theory teaching on teams is productive but engaging workshopped stuff is better in person as it is not really possible to record a workshop." - student interviewee 
 
-<img src="https://i.imgur.com/WxsGCqu.png" alt="A Miro board after an online workshop"  />
+![A Miro board after an online workshop](https://i.imgur.com/WxsGCqu.png)
 
 In discussions one interviewee noted that students were unlikely to engage with asynchronous materials sent before a session but found it useful to revisit resources after the live sessions. Students and tutors alike miss the paper trail that a Miro board gives - after the workshop we can see the ideas collected on the board. During live sessions run with post-its and discussion very little is recorded. 
 
