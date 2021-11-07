@@ -140,3 +140,7 @@ by Kate Armstrong (Editor), Julia Gay (Editor), Paula Sánchez Toribio (Editor),
 
 E-tivities: The Key to Active Online Learning Paperback – Illustrated, 19 July 2013
 by Gilly Salmon  (Author)
+
+Text prior to footnote reference.[^2]
+
+[^2]: Comment to include in footnote.
