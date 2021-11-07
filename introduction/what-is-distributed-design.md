@@ -1,5 +1,5 @@
 # 〰 Distributed Design?
-### An open source teaching resource for exploring Distributed Design
+### An introduction to the concept of Distributed Design
 
 
 ![Centralized, decentralized and distributed network models by Paul Baran (1964)](<../.gitbook/assets/Screenshot 2021-10-26 12.35.09 PM.png>)
@@ -11,8 +11,6 @@ The emergence of Industry 4.0, the global shift away from fossil fuels, the clim
 #### HISTORY
 
 Distributed Design is an outcome of the intersection of two global trends: the Maker Movement and the digitisation of the discipline of design. This convergence has lead to the rise of a new market, in which creative individuals have access to digital tools that allow them to design, produce and fabricate products themselves and easily connect to a global network of collaborators.&#x20;
-
-Distributed Design is a spin off from the Fab City initiative, started by MIT and IAAC Barcelona in 2008 (link to something about Fab City). The initial Distributed Design platform was funded by Creative Europe (?), with X countries as partners.&#x20;
 
 #### BENEFITS
 
